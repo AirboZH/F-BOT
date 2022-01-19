@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.5"
+  },
+  "name": "douban",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "get douban movies to DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "AirboZH",
+  "license": "ISC"
+}
