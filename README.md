@@ -1,6 +1,8 @@
 # F-Bot
 豆瓣电影Top250解析
 
+
+
 解析数据类型
 ``` 
 {
@@ -15,4 +17,4 @@
     detail: text,
     posterUrl: text,
   }
-  ```
+```
